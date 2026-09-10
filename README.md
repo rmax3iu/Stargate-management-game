@@ -90,7 +90,7 @@ Pour installer et lancer le projet, commencez par cloner le dépôt GitHub puis 
 <!-- |-------------------------------------------------------------------------------------------| -->
 <!-- |                                   ACCÈS ADMINISTRATEUR                                    | -->
 <!-- |-------------------------------------------------------------------------------------------| -->
-## 🔑 Accès administrateur
+## 🔑 Accès administrateur 
 
 <p align="justify">
 La création d'une nouvelle mission est réservée aux utilisateurs disposant de droits d'administration. Un compte de test est disponible :
