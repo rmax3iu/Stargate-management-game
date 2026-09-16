@@ -24,6 +24,13 @@ The application also offers a view of the recorded species in the galaxy, inform
 </p>
 
 <!-- |-------------------------------------------------------------------------------------------| -->
+<!-- |                                    TECHNOLOGIES                                           | -->
+<!-- |-------------------------------------------------------------------------------------------| -->
+## Technologies used
+
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge) ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
+
+<!-- |-------------------------------------------------------------------------------------------| -->
 <!-- |                                        PREVIEW                                            | -->
 <!-- |-------------------------------------------------------------------------------------------| -->
 ## 📸 Preview
